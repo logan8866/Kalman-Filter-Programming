@@ -1,4 +1,4 @@
-# 动手学卡尔曼滤波器
+# 从零理解卡尔曼滤波器
 
 本项目翻译自https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 
